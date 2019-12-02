@@ -1,0 +1,10 @@
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\bin\Release\netcoreapp2.2\EsotericLand.deps.json
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\bin\Release\netcoreapp2.2\EsotericLand.runtimeconfig.json
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\bin\Release\netcoreapp2.2\EsotericLand.runtimeconfig.dev.json
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\bin\Release\netcoreapp2.2\EsotericLand.dll
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\bin\Release\netcoreapp2.2\EsotericLand.pdb
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\obj\Release\netcoreapp2.2\EsotericLand.csproj.CoreCompileInputs.cache
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\obj\Release\netcoreapp2.2\EsotericLand.AssemblyInfoInputs.cache
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\obj\Release\netcoreapp2.2\EsotericLand.AssemblyInfo.cs
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\obj\Release\netcoreapp2.2\EsotericLand.dll
+C:\Users\A B\source\repos\EsotericLand\EsotericLand\obj\Release\netcoreapp2.2\EsotericLand.pdb

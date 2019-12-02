@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
+    <StartupObject>EsotericLand.Program</StartupObject>
+    <PublishTrimmed>true</PublishTrimmed>
+    <Authors>Albar</Authors>
+    <Company>AlbarGames</Company>
+  </PropertyGroup>
+
+</Project>
